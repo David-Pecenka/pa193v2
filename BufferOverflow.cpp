@@ -7,7 +7,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-// Note: GCC and MSVC uses different memory alignment
+// Note: GCC and MSVC uses different memory alignment ..
 // Try "12345678DevilEvecosia" as a password for gcc build
 // Try "1234567812345678Devil I am. Ha Ha" as a password for MSVC debug x86 build. 
 // If doesn't work, investigate why :)
